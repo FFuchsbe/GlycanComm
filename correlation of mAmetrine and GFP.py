@@ -17,7 +17,7 @@ from statsmodels import robust
 
 dir_path = os.path.dirname(os.path.realpath(__file__))   # set the working directory to the location of the Python script file. 
 
-folder_name = "06092019 comp/TNF1"
+folder_name = "Correlation/correlation of two FPs"
 file_names = os.listdir(folder_name)  #folder including fcs files
 elongated_path_name = dir_path +"\\" +folder_name
 
