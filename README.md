@@ -38,8 +38,10 @@ IF you use our example data set, save the scripts into the Example data folder. 
 By default the scripts can acces the data in those directories.
 To run the scripts hit the the green play button "run" or F5.
 You should see the calculations in the console on the right, which should take no more than 5 min with the example dataset.
+The dataset provided dataset of TNF-a should give you a channel capacity of 1.345 bit and 1.373 bit for discrete and continous input respectiveley.
 
 The scripts themselves contain information on how they are to be used on datasets.
+  
 In case of errors you can contact the first author of the paper.
 
 
