@@ -37,7 +37,7 @@ high_percentile = 0.999
 
 input_channel = "BL1-A"
 output_channel = "VL2-A"  
-#adjustable channel
+#adjustable channel, adjust them to whichever channel is useful for you. It has to be the channel name your .fcs file uses.
 total_io = pd.DataFrame()
 for i in range(0, len(file_names)):
     temp_type = i
