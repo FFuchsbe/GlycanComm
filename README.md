@@ -8,7 +8,7 @@ Felix F. Fuchsberger1, Dongyoon Kim1, Marten Kagelmacher1, Robert Wawrzinek1, Ch
 1Max-Planck-Institute of Colloids and Interfaces, Department of Biomolecular Systems, Am Mühlenberg 1 14424 Potsdam, 
 
 Installation time: about 20 min
-Software used: Anaconda Naviagtor, comes with Spider and python version 3.8. Also tested with this version.
+Software used: Anaconda Navigator, comes with Spider and python version 3.8. Also tested with this version.
 Teste on Windows 7/64 bit
 
 How to use the scripts (step by step instruction):
@@ -31,17 +31,16 @@ pip install flowcytometrytools
 3) Use the code provided here in Github
 We provide an example dataset to try the code. Save that dataset anywhere on your computer.
 
-Next launch Spyder and dowload or copy paste one of the three python scripts of this paper into spyder.
+Next launch Spyder and download or copy paste one of the three python scripts of this paper into spyder.
 Now save the script you just copied to the location(directory) of your data.
-The script  can access data in subdirectories of that location but this has to be specifyed.
+The script  can access data in subdirectories of that location but this has to be specified.
 IF you use our example data set, save the scripts into the Example data folder. This has the sub directories: "Channel capacity" and "Correlation"
-By default the scripts can acces the data in those directories.
-To run the scripts hit the the green play button "run" or F5.
+By default the scripts can access the data in those directories.
+To run the scripts hit the green play button "run" or F5.
+
 You should see the calculations in the console on the right, which should take no more than 5 min with the example dataset.
-The dataset provided dataset of TNF-a should give you a channel capacity of 1.345 bit and 1.373 bit for discrete and continous input respectiveley.
+The dataset provided dataset of TNF-a should give you a channel capacity of 1.345 bit and 1.373 bit for discrete and continuous input respectively.
 
 The scripts themselves contain information on how they are to be used on datasets.
   
 In case of errors you can contact the first author of the paper.
-
-
