@@ -11,7 +11,7 @@ from FlowCytometryTools import FCMeasurement
 dir_path = os.path.dirname(os.path.realpath(__file__))   # set the working directory to the location of the Python script file. 
 
 
-folder_name = "04.05.20 My Cells/a dose-response"  # drop .fcs files into (sub)directory. The script will use all .fcs files found in a folder
+folder_name = "Channel capacity/Dose TNF-a"  # drop .fcs files into (sub)directory. The script will use all .fcs files found in a folder
 file_names = os.listdir(folder_name)  #folder including fcs files
 elongated_path_name = dir_path +"\\" +folder_name
 
