@@ -3,8 +3,10 @@
 These are the scripts used in 
 
 Felix F. Fuchsberger1,2, Dongyoon Kim1,2, Marten Kagelmacher1, Robert Wawrzinek1,2, Christoph Rademacher1,2*
+
 1Max-Planck-Institute of Colloids and Interfaces, Department of Biomolecular Systems, Am Mühlenberg 1 14424 Potsdam, Germany
-* Christoph Rademacher 
+*Christoph Rademacher 
+
 2Present address: Department for Pharmaceutical Chemistry, University of Vienna, Althanstrasse 14, 1090 Vienna, Austria
 
 
