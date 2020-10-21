@@ -1,4 +1,4 @@
-# GycanComm
+# GlycanComm
 
 These are the scripts used in 
 
