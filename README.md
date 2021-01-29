@@ -11,7 +11,7 @@ Felix F. Fuchsberger1,2, Dongyoon Kim1,2, Marten Kagelmacher1, Robert Wawrzinek1
 
 Installation time: about 20 min
 Software used: Anaconda Navigator, comes with Spider and python version 3.8. Also tested with this version.
-Teste on Windows 7/64 bit
+Tested on Windows 7/64 bit
 
 How to use the scripts (step by step instruction):
 
@@ -24,7 +24,7 @@ For the use of the code you will be using "Spyder (Scientific PYthon DEvelopment
 Next a package not integrated within anaconda needs to be installed, called FlowCytometryTools more info here:
 https://eyurtsev.github.io/FlowCytometryTools/install.html
 
-To install FlowCytometryTools, in the anaconda navigator, launch the first application, the command promt "CMD.exe Promt"
+To install FlowCytometryTools, in the anaconda navigator, launch the first application: the command promt "CMD.exe Promt"
 in the application run the following command:
 pip install flowcytometrytools
 
